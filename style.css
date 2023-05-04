@@ -1,0 +1,36 @@
+body {
+      width: 300px;
+      padding: 10px;
+    }
+    .modal {
+      display: none;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 80%;
+      max-width: 500px;
+      background-color: white;
+      border: 1px solid #ccc;
+      padding: 20px;
+      z-index: 100;
+    }
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      z-index: 50;
+    }
+    .modal-open .modal {
+      display: block;
+    }
+    .modal-open .modal-overlay {
+      display: block;
+    }
+	.settings_title {
+	  margin-bottom: 0px;
+	}
