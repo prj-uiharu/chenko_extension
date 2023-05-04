@@ -13,7 +13,7 @@
 웨일 브라우저는 [웨일 스토어](https://store.whale.naver.com/detail/dffhhlpmjafgbkhmpgdpdnjbaadcglia)에서 설치할 수 있어요.
 
 ## 크롬/엣지/기타 크롬 기반 브라우저
-1. [Releases](https://github.com/gaon12/Ranick2-ko/releases) 페이지에서 최신 버전을 다운로드 받아 압축 해제를 해주세요.
+1. [Releases](https://github.com/gaon12/Hanguly_extension/releases) 페이지에서 최신 버전을 다운로드 받아 압축 해제를 해주세요.
 2. 주소창에 '`chrome://extensions`'를 입력하여 들어간 뒤, '개발자 모드'를 켜고 '압축해제 된 확장앱 설치' 버튼을 누른 뒤, 압축 해제한 폴더를 선택하면 돼요.
 
 # 수집되는 정보
