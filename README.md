@@ -9,10 +9,13 @@
 그래서 한영타 수정 API를 만들고, 범용성 좋게 여러가지를 시도하고 있어요. API 스펙과 API를 사용한 프로젝트들을 하나하나씩 공개할게요. 이 저장소는 크롬/웨일/엣지 등 크로미움 기반 브라우저에서 사용할 수 있는 확장 프로그램이에요!
 
 # 브라우저 별 사용 방법
-## 웨일 스토어
+## 웨일 브라우저
 웨일 브라우저는 [웨일 스토어](https://store.whale.naver.com/detail/dffhhlpmjafgbkhmpgdpdnjbaadcglia)에서 설치할 수 있어요.
 
-## 크롬/엣지/기타 크롬 기반 브라우저
+## 크롬 브라우저
+크롬 브라우저는 [크롬 스토어](https://chrome.google.com/webstore/detail/hanguly/hhfoeljjaolkpnhhibdpeoehpepamcem)에서 설치할 수 있어요.
+
+## 엣지/기타 크롬 기반 브라우저
 1. [Releases](https://github.com/gaon12/Hanguly_extension/releases) 페이지에서 최신 버전을 다운로드 받아 압축 해제를 해주세요.
 2. 주소창에 '`chrome://extensions`'를 입력하여 들어간 뒤, '개발자 모드'를 켜고 '압축해제 된 확장앱 설치' 버튼을 누른 뒤, 압축 해제한 폴더를 선택하면 돼요.
 
