@@ -1,0 +1,9 @@
+{
+    "koen_title": "Convert Hangul → Alphabet misspellings",
+    "enko_title": "Convert Alphabet → Hangul misspellings",
+    "error": "Error",
+    "NotText": "The selected content is not text.",
+    "Result": "Result",
+    "Copied": "Text copied to clipboard",
+    "Close": "Close"
+}
